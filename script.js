@@ -22,6 +22,6 @@ switch (mens) {
       console.log(`You must ${complete}`);
       break;
     default:
-      console.log(`Sorry, we are out of ${expr}.`);
+      console.log(`Sorry`);
       break;
   }
